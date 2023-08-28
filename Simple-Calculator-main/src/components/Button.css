@@ -1,0 +1,37 @@
+.button {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 100%;
+    cursor: pointer;
+    background: #444;
+    color: #fff;
+    border: none;
+    margin: 5px;
+}
+
+.button:hover {
+    background: #555;
+    
+}
+
+.gray {
+    background: #242424;
+}
+
+.gray:hover {
+    background: #333;
+}
+
+.blue {
+    background: #245fdf;
+}
+
+.blue:hover {
+    background: #3873f3;
+}
+
+.zero {
+    width: 110px;
+    border-radius: 100px;        
+}
